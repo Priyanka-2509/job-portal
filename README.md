@@ -9,13 +9,13 @@ Check out the live website here: [Job Portal Live](https://job-portal-1-nn19.onr
 
 ##  Features
 
-- 👤 **User Authentication** – Login/Signup for candidates & employers  
-- 📋 **Job Listings** – Browse and search for jobs  
-- 📝 **Job Applications** – Apply to jobs with resume upload  
-- 💼 **Employer Dashboard** – Post jobs & view applicants  
-- 👨‍💻 **Candidate Dashboard** – Manage applications  
-- 📧 **Email Notifications** for job applications  
-- 📱 **Responsive UI** for mobile and desktop  
+-  **User Authentication** – Login/Signup for candidates & employers  
+-  **Job Listings** – Browse and search for jobs  
+-  **Job Applications** – Apply to jobs with resume upload  
+-  **Employer Dashboard** – Post jobs & view applicants  
+-  **Candidate Dashboard** – Manage applications  
+-  **Email Notifications** for job applications  
+-  **Responsive UI** for mobile and desktop  
 
 ---
 
