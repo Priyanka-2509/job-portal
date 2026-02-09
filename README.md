@@ -7,7 +7,7 @@ Check out the live website here: [Job Portal Live](https://job-portal-1-nn19.onr
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 👤 **User Authentication** – Login/Signup for candidates & employers  
 - 📋 **Job Listings** – Browse and search for jobs  
@@ -19,16 +19,13 @@ Check out the live website here: [Job Portal Live](https://job-portal-1-nn19.onr
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ### Home Page
 ![Home Page](screenshots/home.png)
 
 ### Job Listings
 ![Job Listings](screenshots/jobs.png)
-
-### Candidate Dashboard
-![Candidate Dashboard](screenshots/candidate-dashboard.png)
 
 ### Employer Dashboard
 ![Employer Dashboard](screenshots/employer-dashboard.png)
@@ -64,7 +61,7 @@ Check out the live website here: [Job Portal Live](https://job-portal-1-nn19.onr
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/job-portal.git
+git clone https://github.com/Priyanka-2509/job-portal.git
 cd job-portal
 ````
 
@@ -111,7 +108,7 @@ The app will be available at [http://localhost:3000](http://localhost:3000) or v
 ---
 
 
-## 📌 Roadmap
+##  Roadmap
 
 * Setup frontend with React
 * Setup backend with Express & MongoDB/PostgreSQL
